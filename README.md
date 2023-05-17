@@ -22,8 +22,6 @@ Every community is unique.
 
 Fedi strives to solve problems, not dictate answers. So we made it easy for individual commnuities around the woorld to extend and modify the Fedi product, to do what you need.
 
-----
-
 ## FAQs
 
 ### What is WebLN:  It’s a library and set of specifications for lightning apps and client providers to facilitate communication between apps and users' lightning nodes in a secure way.
