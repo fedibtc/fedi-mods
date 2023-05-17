@@ -22,13 +22,16 @@ Every community is unique.
 
 Fedi strives to solve problems, not dictate answers. So we made it easy for individual commnuities around the woorld to extend and modify the Fedi product, to do what you need.
 
+Fedi mods provide a simple way to provide a unique experiece for your local federation members.
+
 ## FAQs
 
-### What is WebLN:  It’s a library and set of specifications for lightning apps and client providers to facilitate communication between apps and users' lightning nodes in a secure way.
+#### What is WebLN:  
+It’s a library and set of specifications for lightning apps and client providers to facilitate communication between apps and users' lightning nodes in a secure way.
 
-### How it looks like in Fedi (code)
+#### How it looks like in Fedi (code)
 
-### How we can help
+#### How we can help
 Fedi is a mobile application, so Fedi Sites should be designed to look and feel good on mobile, over time we hope to develop and open source some design guidelines for the delivery of Fedi Mods. 
 
 We work extensively with design communities and frontend developers to help adapt your WebLN sites to improve their UX from Fedi. 
@@ -36,9 +39,6 @@ We work extensively with design communities and frontend developers to help adap
 We also love connecting developers and designers with communities around the world to get insights to develop apps that meet real-world needs. 
 
 We hope to build this bridge between bitcoin developers and real-world needs to educate communities about bitcoin, bring real solutions and provide a distribution platform for your app through the influential network of Fedi Order.
-
-
-
 
 
 
