@@ -14,7 +14,7 @@ Adding a new Mod website is as simple as linking the url, icon and name in your 
 
 Fedi will curate a collection of awesome WebLN sites and Mods which can be used through the Fedi App. 
 
-To create and integrate your WebLN app with Fedi and grow by empowering bitcoin expansion, [join the discussion boards](https://github.com/fedibtc/fedi-mods/discussions), open PRs and  reach out through our [Fedi Community](https://t.me/fedibtc).
+To create and integrate your WebLN app with Fedi and grow by empowering bitcoin expansion, [join the discussion boards](https://github.com/fedibtc/fedi-mods/discussions), open PRs and  reach out through our [Fedi Community on Telegram](https://t.me/fedibtc).
 
 ## Why Fedi Mods?
 
