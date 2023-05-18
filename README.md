@@ -18,9 +18,9 @@ To create and integrate your webln app with Fedi and grow by empowering bitcoin 
 
 ## Why Fedi Mods?
 
-Every community is unique. 
+Every community is unique. Every communtiy needs unique solution to their particular problems. 
 
-Fedi strives to solve problems in local manner, not provide a single answer. So we made it easy for individual commnuities around the woorld to extend and modify the Fedi product to do what you need to do.
+Fedi strives to solve problems by providing a flexible plaform that makes it easy for individual commnuities around the woorld to extend and modify the Fedi product to do what you need to do.
 
 Fedi mods provide a simple way to provide a unique experiece for your local federation members. 
 
