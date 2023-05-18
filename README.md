@@ -24,6 +24,8 @@ Fedi strives to solve problems by providing a flexible plaform that makes it eas
 
 Fedi mods provide a simple way to provide a unique experiece for your local federation members. 
 
+As a developer you no longer have to worry about fancy urls, finding an audience or spending all your time on look and feel. Figure out the best way to solve the problem, keep it simple and deploy in Fedi. 
+
 ## Getting Started with webln
 ==KODY Examples of webln Demos Tutorial Repls==
 
