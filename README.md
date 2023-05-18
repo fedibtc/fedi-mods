@@ -24,13 +24,6 @@ Fedi strives to solve problems by providing a flexible plaform that makes it eas
 
 Fedi mods provide a simple way to provide a unique experiece for your local federation members. 
 
-You can extend the functionality of Fedi Alpha by selecting from a range of existing webln enlabled sites including: 
-
-- [Geyser Fund](https://geyser.fund/)
-- [Stacker News](https://stacker.news/)
-- [Bitrefil](https://www.bitrefill.com/)
-- [Kollider](https://kollider.xyz/)
-
 ## Getting Started with webln
 ==KODY Examples of webln Demos Tutorial Repls==
 
