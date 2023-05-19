@@ -53,7 +53,7 @@ Highly extensible federated applications served directly from your community, ac
 
 The simplest way to get started now will be to develop your mods as simple webln apps and deploy to the Fedi Signet or in your own [Fedi Alpha federation](https://github.com/fedibtc/fedi-alpha). 
 
-************KODY can you provide links / examples of webln Demos Tutorial here************
+********** **KODY can you provide links / examples of webln Demos Tutorial here** **********
 
 Join the [discussion boards to explore new module ideas](https://github.com/fedibtc/fedi-mods/discussions) and reach out through our [Fedi Community on Telegram](https://t.me/fedibtc) to discuss more and keep an eye out for announcements of upcoming hackathons where we'll be launching our replit programme.
 
