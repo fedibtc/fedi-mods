@@ -13,7 +13,7 @@ As a developer, we can make dsitribution easy. You no longer have to worry about
 - **Q:** Does Fedi act as a gatekeeper to Fedi mods?
 - **A:** How little you know us! Fedi mods have been designed so that they can be deployed by guardians when configuring the federation, your community, your mods, your homepage.
 
-Fedi mods provide a simple way to provide a unique experiece for your local federation members, [all under your control](https://www.fedi.xyz/blog/we-can-build-our-own-future-fedi-gives-us-the-tools). 
+Fedi mods provide a simple way to provide a unique experience for your local federation members, [all under your control](https://www.fedi.xyz/blog/we-can-build-our-own-future-fedi-gives-us-the-tools). 
 
 ## How it works
 
