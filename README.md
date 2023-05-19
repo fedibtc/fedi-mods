@@ -1,48 +1,79 @@
 # fedi-mods
 
-“We win by making the bitcoin ecosystem win.” Obi Nwosu 
+> "We win by making the bitcoin ecosystem win"
+> 
+> Obi Nwosu, 2023 - Microstrategy, Bitcoin for Corporations
 
-Fedi has full lightning network support & directly integrates webln sites on the home page, allowing communities around the globe to connect with the best of bitcoin. 
+Every community is unique, each has it's own particular problems and that require unique solutions. We believe in taking a decentralised approach to this, so we've made Fedi easy for develpers to modify.
 
-Fedi Mods allow you to deploy your own webln enabled third-party applications, selected by guardians to curate customized experiences for members within their Federations. 
+As a user of Fedi, you'll have acess right from the homepage to launch custom Fedi mods that interact with your money and data through open standards.
 
-In the future these Mods will also integrate directly with Fedimint Modules and our chat framework to allow you to build extensible federated applications served directly from your community. 
+As a developer, we can make dsitribution easy. You no longer have to worry about finding an audience, funny urls or spending all your time on look and feel. Simply figure out the best way to solve the problem, keep it simple and deploy in Fedi.
 
-Fedi Mods are sites that open within Fedi’s webview browser to guarantee webln support and direct integration with the wallet. 
+- **Q:** Does Fedi act as a gatekeeper to Fedi mods?
+- **A:** How little you know us! Fedi mods have been designed so that they can be deployed by guardians when configuring the federation, your community, your mods, your homepage.
 
-Adding a new Mod website is as simple as linking the url, icon and name in your Fedimint config.  When the user enters the site they’ll be able to send/receive sats, login with lightning and store/use L402 macaroons
+Fedi mods provide a simple way to provide a unique experiece for your local federation members, [all under your control](https://www.fedi.xyz/blog/we-can-build-our-own-future-fedi-gives-us-the-tools). 
 
-Fedi will curate a collection of awesome webln sites and Mods which can be used through the Fedi App. 
+## How it works
 
-To create and integrate your webln app with Fedi and grow by empowering bitcoin expansion explore ideas for new modules on the [discussion boards](https://github.com/fedibtc/fedi-mods/discussions) and reach out through our [Fedi Community on Telegram](https://t.me/fedibtc).
+Fedi mods will be an evolving space over 2023 and we're keen to bring a whole communty along with us for the ride.
 
-## Why Fedi Mods?
+We will be publishing replit courses that will guide you through the development of fedi mods and take you on journey from code zero to hero!
 
-Every community is unique. Every communtiy needs unique solution to their particular problems. 
+Once you have your mods, let us know as we curate a collection of awesome webln sites and fedi-mods which can be used through the Fedi App. 
 
-Fedi strives to solve problems by providing a flexible plaform that makes it easy for individual commnuities around the woorld to extend and modify the Fedi product to do what you need to do.
+Fedi mod functionality will be released over three phases.
 
-Fedi mods provide a simple way to provide a unique experiece for your local federation members. 
+### Phase 1 - Open Lightning Standards (webln / LN URL Auth)
 
-As a developer you no longer have to worry about fancy urls, finding an audience or spending all your time on look and feel. Figure out the best way to solve the problem, keep it simple and deploy in Fedi. 
+On release Fedi mods support open standards that allow you to write your own Fedi mods or integrate an existing app to Fedi. 
 
-## Getting Started with webln
-==KODY Examples of webln Demos Tutorial Repls==
+Accounts are managed from your exisitng fedi key (via LNURL-Auth), to ensure that when you restore oyu wallet you don't just restore your money and chat history, but also to every site you have an account on. 
+
+To interact with your wallet, Fedi mods support simple WebLN integrations to move money to and from your favorite sites in seconds without copying and pasting invoices.
+
+To get started you can deploy a simple website, integrate with webln and find a federation that wants to run it! 
+
+### Phase 2 - Federation hosting
+
+Websites are quick and easy, but not for every environemnt. Sometimes you don't want to rely on anyone else to run your app or the network conectivity just doesn't work out. 
+
+Fedi mods can uniquely take advantage of the local infrastructure running the fedimint nodes to bring your mods to the Federation, running them locally in your community and under your control.
+
+This allows oyu to operate a Federation with additional mods on a local only network or simply ensure that your data never leaves your control.  
+
+### Phase 3 - Federation native APIs
+
+As we move hosting towards the Federation we explore Federation native integration. This will allow you to natively access functionality running on the federation infrastructure such as core fedimint, chat bots, AI models and custom fedimint modules all from within your Fedi mod. 
+
+Highly extensible federated applications served directly from your community, accessbile to every web developer on the planet. 
+
+## Getting Started
+
+The simplest way to get started now will be to develop your mods as simple webln apps and deploy to the Fedi Signet or in your own [Fedi Alpha federation](https://github.com/fedibtc/fedi-alpha). 
+
+************KODY can you provide links / examples of webln Demos Tutorial here************
+
+Join the [discussion boards to explore new module ideas](https://github.com/fedibtc/fedi-mods/discussions) and reach out through our [Fedi Community on Telegram](https://t.me/fedibtc) to discuss more and keep an eye out for announcements of upcoming hackathons where we'll be launching our replit programme.
 
 ## FAQs
 
-#### What is webln:  
+#### What is webln?
+
 It’s a library and set of specifications for lightning apps and client providers to facilitate communication between apps and users' lightning nodes in a secure way.
 
-#### How we can help
-Fedi is a mobile application, so Fedi Sites should be designed to look and feel good on mobile, over time we hope to develop and open source some design guidelines for the delivery of Fedi Mods. 
+#### Are there design guidelines?
 
-We work extensively with design communities and frontend developers to help adapt your webln sites to improve their UX from Fedi. 
+Fedi is a mobile application and loads you mods through a webview component so Fedi Sites should be designed to look and feel good on mobile and avoid to much superflous navitgation. Our advice would be to focus on a simple tightly scoped use case and avoid too much complexity - "whats the one highly valuable thign you can provide to Fedi users".
 
-We also love connecting developers and designers with communities around the world to get insights to develop apps that meet real-world needs. 
+Over time we hope to develop and open source some design guidelines for the delivery of Fedi Mods and work collaboratively with these design communities and frontend developers to help adapt your webln sites to improve their UX for Fedi. 
 
-We hope to build this bridge between bitcoin developers and real-world needs to educate communities about bitcoin, bring real solutions and provide a distribution platform for your app through the influential network of Fedi Order.
+#### How will we know what mods to build? 
 
+We love connecting developers and designers with communities around the world to get insights to develop apps that meet real-world needs. 
+
+We hope to build this bridge connecting developers to real-world needs and opportunities. Our Fedi Order can provide guidance on what they're hearing on the ground, what works, what doesn't, and connect you to audeinces that need your solutions.
 
 
 
