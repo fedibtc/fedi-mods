@@ -8,7 +8,7 @@ Every community is unique, each has it's own particular problems and that requir
 
 As a user of Fedi, you'll have acess right from the homepage to launch custom Fedi mods that interact with your money and data through open standards.
 
-As a developer, we can make dsitribution easy. You no longer have to worry about finding an audience, funny urls or spending all your time on look and feel. Simply figure out the best way to solve the problem, keep it simple and deploy in Fedi.
+As a developer, we can make distribution easy. You no longer have to worry about finding an audience, funny urls or spending all your time on look and feel. Simply figure out the best way to solve the problem, keep it simple and deploy in Fedi.
 
 - **Q:** Does Fedi act as a gatekeeper to Fedi mods?
 - **A:** How little you know us! Fedi mods have been designed so that they can be deployed by guardians when configuring the federation, your community, your mods, your homepage.
