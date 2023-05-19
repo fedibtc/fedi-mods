@@ -2,7 +2,7 @@
 
 > "We win by making the bitcoin ecosystem win"
 > 
-> Obi Nwosu, 2023 - Microstrategy, Bitcoin for Corporations
+> Obi Nwosu, 2023 - What Bitcoin Did - WBD657 - How Fedimint Scales Bitcoin
 
 Every community is unique, each has it's own particular problems and that require unique solutions. We believe in taking a decentralised approach to this, so we've made Fedi easy for develpers to modify.
 
