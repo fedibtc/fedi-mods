@@ -6,7 +6,7 @@
 
 Every community is unique, each has its own particular problems that require unique solutions. We believe in taking a decentralised approach to solving these problems, so we've made Fedi easy for developers to modify.
 
-As a user of Fedi, you'll have access right from the homepage to launch custom Fedi mods that interact with your money and data through open standards.
+As a user of Fedi, you'll have access right from the homepage to launch custom Fedi Mods that interact with your money and data through open standards.
 
 As a developer, we can make distribution easy. You no longer have to worry about finding an audience, funny urls or spending all your time on look and feel. Simply figure out the best way to solve the problem, keep it simple and deploy in Fedi.
 
@@ -26,7 +26,7 @@ Fedi Mods functionality will be released over three phases.
 
 ### Phase 1 - Open Lightning Standards (WebLN / LNURL)
 
-The simplest and most straightforward Fedi-mod is a WebLN enabled website. Fedi-mods run in Fedi's in-app browser to inject WebLN and give a native payments / auth integration with Fedi's balances. Fedi has a FEDIMODS constant that you can add your site to. Then your mod will show up alongside the other mods on the home page. Easy peasy.
+The simplest and most straightforward Fedi Mod is a WebLN enabled website. Fedi Mods run in Fedi's in-app browser to inject WebLN and give a native payments / auth integration with Fedi's balances. Fedi has a FEDIMODS constant that you can add your site to. Then your mod will show up alongside the other mods on the home page. Easy peasy.
 
 ```typescript
 export const FEDIMODS: FediMod[] = [
@@ -46,21 +46,21 @@ export const FEDIMODS: FediMod[] = [
     },
     {
         id: 'newmod',
-        title: 'New Fedi-Mod',
+        title: 'New Fedi Mod',
         url: 'http://fedi-dev-release-mod.com',
         description:
-            'Try my new Fedi mod!!',
+            'Try my new Fedi Mod!!',
     }
 ];
 ```
 
-The site opens in Fedi's in-app browser to inject webln and handle any lnurl pay, withdraw, or auth request. Fedi will soon support handling more complex webln interactions like using macaroons or runes via 402 'payment required' errors.
+The site opens in Fedi's in-app browser to inject WebLN and handle any lnurl pay, withdraw, or auth request. Fedi will soon support handling more complex WebLN interactions like using macaroons or runes via 402 'payment required' errors.
 
-Just add a webLN site to the config constant. 
+Just add a WebLN site to the config constant. 
 
-However, designing a GREAT fedi mod involves a number of other design decisions, ensuring your app looks great in fedi's in-browser mobile environment is tricky, but we'd love to help - for this join us in the [Bitcoin Design Community](https://discord.gg/Pa7am6SA).
+However, designing a GREAT Fedi mod involves a number of other design decisions, ensuring your app looks great in Fedi's in-browser mobile environment is tricky, but we'd love to help - for this join us in the [Bitcoin Design Community](https://discord.gg/Pa7am6SA).
 
-### Phase 2 - Federation hosted fedi-mod sites
+### Phase 2 - Federation hosted Fedi Mod sites
 
 Websites are quick and easy, but can be shutdown, internet connectivity can be an issue or sometimes you don't want to rely on anyone else to run your app.
 
@@ -82,7 +82,7 @@ The simplest way to get started now will be to develop your mods as simple WebLN
 
 ### Resources for building WebLN Applications
 
-We'll be adding our own resources from Fedi here soon, and to jump in and start building Fedi-mods with us please join our Fedi-design channel in the [Bitcoin Design Community Discord](https://discord.gg/Pa7am6SA).
+We'll be adding our own resources from Fedi here soon, and to jump in and start building Fedi Mods with us please join our Fedi-design channel in the [Bitcoin Design Community Discord](https://discord.gg/Pa7am6SA).
 
 Here are some of our favorite resources for building WebLN Applications:
 
@@ -94,7 +94,7 @@ Join the [discussion boards to explore new mod ideas](https://github.com/fedibtc
 
 ## FAQs
 
-#### What is webln?
+#### What is WebLN?
 
 It’s a library and set of specifications for lightning apps and client providers to facilitate communication between apps and users, lightning wallets, nodes in a secure way. As a fully lightning compatible application, Fedi supports deep lightning integrations via the WebLN protocol.
 
