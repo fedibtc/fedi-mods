@@ -1,4 +1,4 @@
-# Fedi Mods: Solutions for Communities
+# Fedi Mods - Solutions for Communities
 
 > "We win by making the bitcoin ecosystem win"
 > 
