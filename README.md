@@ -58,7 +58,7 @@ The site opens in Fedi's in-app browser to inject WebLN and handle any lnurl pay
 
 Just add a WebLN site to the config constant. 
 
-However, designing a GREAT Fedi mod involves a number of other design decisions, ensuring your app looks great in Fedi's in-browser mobile environment is tricky, but we'd love to help - for this join us in the [Bitcoin Design Community](https://discord.gg/Pa7am6SA).
+However, designing a GREAT Fedi mod involves a number of other design decisions, ensuring your app looks great in Fedi's in-browser mobile environment is tricky, but we'd love to help - for this join us in the [Bitcoin Design Community](https://discord.gg/kcJNE3NfTn).
 
 ### Phase 2 - Federation hosted Fedi Mod sites
 
